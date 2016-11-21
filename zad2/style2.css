@@ -1,0 +1,59 @@
+.big_container {
+    margin: 0;
+    padding-top: 50px;
+    height: 100vh;
+    background: #e3d0c0;
+}
+
+.carousel {
+    width: 1200px;
+    height: 400px;
+    overflow: hidden;
+    position: relative;
+    border: 2px solid black;
+    margin: 0 auto;
+}
+
+.carousel ul {
+    position: relative;
+    list-style: none;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    border: 1px solid black;
+}
+
+.carousel ul li {
+    position: absolute;
+    float: left;
+    text-align: center;
+    border: 1px solid black;
+}
+
+.main_buttons {
+    margin: 10px;
+}
+
+
+
+
+
+/*#carousel {
+    border: 3px solid black;
+    width: 2000px;
+    height: 400px;
+    overflow: scroll;
+    margin: 0 auto;
+}
+
+
+ul.images {
+    padding: 0;
+    margin: 0;
+}
+
+.images {
+    display: inline-flex;
+    background-size: cover;
+}
+*/
